@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v804_stream>
+    <packet_recv/>
+    <packet_sent/>
+    <packet_send_drop/>
+    <packet_recv_drop/>
+    <tscount/>
+    <intr_status/>
+    <overflow/>
+    <underflow/>
+    <tx_overflow/>
+    <tx_underflow/>
+    <tx_count/>
+    <waitfailed/>
+    <dma_timeout/>
+    <fpga_test/>
+</v804_stream>
